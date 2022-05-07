@@ -1,0 +1,33 @@
+.container-projects {
+  margin-top: 15%;
+  color: white;
+  text-align: center;
+}
+
+.container-projects h1 {
+  margin-bottom: 35px;
+}
+
+.container-projects button {
+  margin-top: 35px;
+  margin: 8px;
+  padding: 10px;
+  width: 100px;
+  text-align: center;
+  align-items: center;
+  background-image: linear-gradient(to left, #140d09, #412b1e);
+  border: 0;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.container-projects button:hover {
+  text-decoration: underline;
+}
+
+.container-projects button a {
+  color: white;
+  text-decoration: none;
+}
